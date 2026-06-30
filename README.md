@@ -17,3 +17,4 @@ JavaScript project for roadmap.sh
 https://roadmap.sh/projects/js-price-calculator
 
 *My Solution:*   
+https://roadmap.sh/projects/js-price-calculator/solutions?u=6a41080523088a0480d07385
